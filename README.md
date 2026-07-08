@@ -27,6 +27,8 @@ El sistema se basa en un microcontrolador que gestiona la comunicación entre el
     * Distancia respecto al área segura.
     * Enlace de Google Maps.
 
+![Mapa Enlace Google Maps](https://github.com/CamiloAlarcon25/Sistema-de-Monitoreo-Electr-nico-V1/blob/main/Mapa.png)
+
 ## Código Fuente
 El código original (`RastreadorV1.ino`) utiliza la librería `TinyGPS` para el procesamiento de datos NMEA.
 
