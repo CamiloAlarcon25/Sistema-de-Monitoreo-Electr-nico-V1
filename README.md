@@ -5,7 +5,7 @@ Este proyecto corresponde a la versión inicial desarrollada como trabajo de tit
 ## Descripción del Proyecto
 El dispositivo fue diseñado para detectar cuando un animal sale de un "área segura" predefinida. Al detectar esta intrusión, el sistema calcula la ubicación exacta y envía un mensaje de texto (SMS) al usuario con las coordenadas y un enlace directo a Google Maps.
 
-![Prototipo Físico 2017](ruta_de_tu_imagen_1.jpg)
+![Prototipo Físico 2017](https://github.com/CamiloAlarcon25/Sistema-de-Monitoreo-Electr-nico-V1/blob/main/Prototipo1.png)
 
 ## Arquitectura del Sistema
 El sistema se basa en un microcontrolador que gestiona la comunicación entre el módulo GPS (para posicionamiento) y el módulo GPRS/GSM (para la transmisión de datos por red celular).
@@ -16,7 +16,7 @@ El sistema se basa en un microcontrolador que gestiona la comunicación entre el
 * **Comunicación:** Módulo GPRS/GSM (SIM900).
 * **Alimentación:** Batería portátil de alta capacidad.
 
-![Diagrama de Conexiones](ruta_de_tu_imagen_2.jpg)
+![Diagrama de Conexiones](https://github.com/CamiloAlarcon25/Sistema-de-Monitoreo-Electr-nico-V1/blob/main/Prototipo2.png)
 
 ## Funcionamiento
 1. **Detección:** El sistema compara constantemente la coordenada actual del GPS con la coordenada del "área segura".
